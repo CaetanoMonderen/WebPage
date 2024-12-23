@@ -5,7 +5,9 @@ import React, { useState, useEffect } from 'react'
 const subtitles = [
   "Bachelor Artificial Intelligence",
   "Problem Solver",
-  "Tech Enthusiast"
+  "Tech Enthusiast",
+  "Machine Learning",
+  "Neural Networks"
 ]
 
 export default function SmoothChangingSubtitle() {
