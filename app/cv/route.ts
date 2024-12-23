@@ -19,4 +19,3 @@ export async function GET() {
     return new NextResponse('CV not found', { status: 404 })
   }
 }
-https://github.com/CaetanoMonderen/WebPage
