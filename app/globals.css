@@ -13,3 +13,12 @@ body {
   }
 }
 
+@layer utilities {
+  .text-shadow {
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+  .text-shadow-lg {
+    text-shadow: 0 0 20px rgba(0, 0, 0, 0.7);
+  }
+}
+
